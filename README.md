@@ -2,7 +2,7 @@
 
 This repository contains the instances used in the paper "The Crop Growth Scheduling Problem in Vertical Farming", by [Alberto Santini](https://santini.in/), [Michael Schneider](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Lehrstuhlleitung/~nwkh/Michael-Schneider/) and [Vinicius Greco de Lemos](https://www.linkedin.com/in/viniciusgreco/).
 
-<p style="text-align:center">
+<p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indoor_Hydroponics_of_Morus%2C_Japan_%2838459770052%29.jpg/640px-Indoor_Hydroponics_of_Morus%2C_Japan_%2838459770052%29.jpg"><br>
     Growing mulberries in a hydroponic system. Photograph by Satoshi Kinokuni, distributed under a CC-BY-2.0 license.
 </p>
