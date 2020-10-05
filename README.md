@@ -1,6 +1,6 @@
-# The Crop Growth Scheduling Problem in Vertical Farming
+# The Crop Growth Planning Problem in Vertical Farming
 
-This repository contains the instances used in the paper "The Crop Growth Scheduling Problem in Vertical Farming", by [Alberto Santini](https://santini.in/), [Michael Schneider](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Lehrstuhlleitung/~nwkh/Michael-Schneider/), [Enrico Bartolini](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Post-Doktorand/~nwla/Enrico-Bartolini/lidx/1/) and [Vinicius Greco de Lemos](https://www.linkedin.com/in/viniciusgreco/).
+This repository contains the instances used in the paper "The Crop Growth Planning Problem in Vertical Farming", by [Alberto Santini](https://santini.in/), [Michael Schneider](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Lehrstuhlleitung/~nwkh/Michael-Schneider/), [Enrico Bartolini](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Post-Doktorand/~nwla/Enrico-Bartolini/lidx/1/) and [Vinicius Greco de Lemos](https://www.linkedin.com/in/viniciusgreco/).
 
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indoor_Hydroponics_of_Morus%2C_Japan_%2838459770052%29.jpg/640px-Indoor_Hydroponics_of_Morus%2C_Japan_%2838459770052%29.jpg"><br>
