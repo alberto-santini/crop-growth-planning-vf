@@ -2,6 +2,21 @@
 
 This repository contains the instances used in the paper "The Crop Growth Planning Problem in Vertical Farming", by [Alberto Santini](https://santini.in/), [Michael Schneider](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Lehrstuhlleitung/~nwkh/Michael-Schneider/), [Enrico Bartolini](https://www.dpo.rwth-aachen.de/cms/DPO/Der-Lehrstuhl/Team/Post-Doktorand/~nwla/Enrico-Bartolini/lidx/1/) and [Vinicius Greco de Lemos](https://www.linkedin.com/in/viniciusgreco/).
 
+You can cite our paper as follows:
+
+```
+@article{santini2021vf,
+    title={The crop growth planning problem in vertical farming},
+    author={Santini, Alberto and Bartolini, Enrico and Schneider, Michael and Greco de Lemos, Vinicius},
+    journal={European Journal of Operational Research},
+    year={2021},
+    volume={294},
+    issue={1},
+    pages={377--390},
+    doi={10.1016/j.ejor.2021.01.034}
+}
+```
+
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indoor_Hydroponics_of_Morus%2C_Japan_%2838459770052%29.jpg/640px-Indoor_Hydroponics_of_Morus%2C_Japan_%2838459770052%29.jpg"><br>
     Growing mulberries in a hydroponic system. Photograph by Satoshi Kinokuni, distributed under a CC-BY-2.0 license.
