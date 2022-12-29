@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Santini"
+  first-names: "Alberto"
+title: " Instances for the Crop Growth Scheduling Problem in Vertical Farming "
+version: 0.1.3
+doi: 10.5281/zenodo.4066488
+date-released: 2020-10-05
+url: "https://github.com/alberto-santini/crop-growth-planning-vf"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Santini"
+    first-names: "Alberto"
+  - family-names: "Bartolini"
+    first-names: "Enrico"
+  - family-names: "Schneider"
+    first-names: "Michael"
+  - family-names: "Greco de Lemos"
+    first-names: "Vinicius"
+  title: "The crop growth planning problem in vertical farming"
+  journal: "European Journal of Operational Research"
+  volume: 294
+  issue: 1
+  start: 377
+  end: 390
+  year: 2021
+  doi: 10.1016/j.ejor.2021.01.034
